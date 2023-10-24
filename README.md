@@ -1,5 +1,8 @@
 # ScratchHTTP
 HTTP GET requests in vanilla Scratch 3.0
+# How can I do this?
+-Simply add "127.0.0.1 translate-service.scratch.mit.edu" to your hosts file (on windows - untested on linux)
+-Run the example server
 # How is this possible?
 ![Screenshot (19)](https://github.com/mutethecat/ScratchHTTP/assets/71191728/c9948c14-1ffe-44fc-92b9-1a9e0f00f447)
 # When the translate feature is used in scratch, It sends an HTTP GET request to "translate-service.scratch.mit.edu".
